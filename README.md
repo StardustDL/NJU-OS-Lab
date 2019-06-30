@@ -4,7 +4,7 @@
 - Implementor: StardustDL
 - Updated Time: 2019/6/14
 
-This are the sources code of my programming assignment of OS2019 courses. It contains ALL contents from L0-L3, M1-M6.
+This are the source codes of my programming assignment of OS2019 courses. It contains ALL contents from L0-L3, M1-M6.
 
 ## Labs
 
